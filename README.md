@@ -18,4 +18,6 @@ SOURCE_PHONE_COLUMN = 16
 ```
 
 ##Usage##
+```Python
 python twiScrub.py
+```
