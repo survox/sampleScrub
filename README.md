@@ -10,10 +10,12 @@ Update the script with your Twilio SID and token
 ```Python
 account_sid = "INSERT YOUR ACCOUNT SID HERE"
 auth_token = "INSERT YOUR AUTH TOKEN HERE"
+```
 
 Lastly, update the column position to read the phone number from
 ```Python
 SOURCE_PHONE_COLUMN = 16
+```
 
 ##Usage##
 python twiScrub.py
